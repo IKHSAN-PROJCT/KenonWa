@@ -1,4 +1,4 @@
-<center><h1>CUKUP INSTALL GIT SAJA</h1></center>
+<center><h>CUKUP INSTALL GIT SAJA</h></center>
 
 pkg update && pkg upgrade -y
 
